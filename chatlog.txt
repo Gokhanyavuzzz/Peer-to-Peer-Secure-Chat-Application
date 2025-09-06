@@ -1,0 +1,8 @@
+[2025-05-03 11:47:32] Received from 192.168.1.5: denemeeee
+[2025-05-03 11:56:29] Received from 192.168.1.5 (secure): secure denemeeee
+[2025-05-03 18:05:14] Received from 192.168.1.66: selam
+[2025-05-03 18:05:23] Received from 192.168.1.66 (secure): selamss
+[2025-05-03 20:23:52] Received from 192.168.1.66 (secure): Secure test message
+[2025-05-03 20:24:10] Received from 192.168.1.66: Unsecure test message
+[2025-05-03 22:45:49] Received from 192.168.1.66 (secure): secure
+[2025-05-03 22:45:58] Received from 192.168.1.66: unsecure
